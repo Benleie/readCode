@@ -1,0 +1,28 @@
+{
+  "name": "readcode",
+  "version": "1.0.0",
+  "description": "+ git每次push时需要输入密码\r   + git通过http或https的方式连接远程仓库时用户名和密码的记忆存储问题",
+  "main": "lodash.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benleie/readCode.git"
+  },
+  "keywords": [
+    "lodash",
+    "javascript",
+    "underscore"
+  ],
+  "author": "ben leie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benleie/readCode/issues"
+  },
+  "homepage": "https://github.com/Benleie/readCode#readme"
+}
